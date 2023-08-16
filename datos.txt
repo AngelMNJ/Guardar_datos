@@ -1,0 +1,3 @@
+Estos son mis datos
+(1, 'Juan', 25)
+(2, 'María', 30)
