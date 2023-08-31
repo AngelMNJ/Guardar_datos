@@ -1,5 +1,8 @@
-archivo = open("datos.txt", "a")
+# Abrir el archivo en modo escritura
+archivo = open("datos.txt", "w") # W write, R read, A appeal, a+ ?
 
-archivo.write('\n')
+# Escribir los datos en el archivo
+archivo.write("Estos son mis datos" )
 
+# Cerrar el archivo
 archivo.close()
